@@ -1,2 +1,2 @@
 # RandomPurseGenerator
-Simple unity game that simulates purse selection
+Simple Unity game that simulates purse selection
